@@ -7,3 +7,9 @@ h1 {
     text-shadow: 2px 2px 2px solid black;
     background-color: lightblue;
 }
+
+p {
+    color: aqua;
+    text-align: center;
+    background-color: yellowgreen;
+}
