@@ -8,8 +8,13 @@ h1 {
     background-color: lightblue;
 }
 
+div {
+    max-width: 300px;
+    background-color: lightpink;
+}
+
 p {
     color: aqua;
     text-align: center;
-    background-color: yellowgreen;
+    background-color: lightseagreen;
 }
